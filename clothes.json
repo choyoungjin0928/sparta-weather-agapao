@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "idx":0,
+            "brand":"BALENCIAGA",
+            "name":"코퍼레이트 로고 자수 코튼 셔츠",
+            "price": "₩ 753,860",
+            "image": "https://firebasestorage.googleapis.com/v0/b/sparta-weather.appspot.com/o/images%2F1.png?alt=media&token=19c6bb06-9faa-4628-98ad-943abde67e69",
+            "temperature":25,
+            "link":"https://www.matchesfashion.com/kr/products/Balenciaga-%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%ED%8A%B8-%EB%A1%9C%EA%B3%A0-%EC%9E%90%EC%88%98-%EC%BD%94%ED%8A%BC-%EC%85%94%EC%B8%A0-1347429"
+        },
+        {
+            "idx":1,
+            "brand":"BALENCIAGA",
+            "name":"코퍼레이트 로고 자수 새틴 보머 재킷",
+            "price": "₩ 1,922,495",
+            "image": "https://firebasestorage.googleapis.com/v0/b/sparta-weather.appspot.com/o/images%2F2.png?alt=media&token=1e948db8-bf09-428e-a3fe-80ad78458b3d",
+            "temperature":20,
+            "link": "https://www.matchesfashion.com/kr/products/Balenciaga-%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%ED%8A%B8-%EB%A1%9C%EA%B3%A0-%EC%9E%90%EC%88%98-%EC%83%88%ED%8B%B4-%EB%B3%B4%EB%A8%B8-%EC%9E%AC%ED%82%B7-1347416"
+        },
+        {
+            "idx":2,
+            "brand":"BALENCIAGA",
+            "name":"로고 자수 데님 재킷",
+            "price": "₩ 1,486,525",
+            "image": "https://firebasestorage.googleapis.com/v0/b/sparta-weather.appspot.com/o/images%2F3.png?alt=media&token=89e5fa22-6027-4257-84de-18c0d1525176",
+            "temperature":17,
+            "link": "https://www.matchesfashion.com/kr/products/Balenciaga-%EB%A1%9C%EA%B3%A0-%EC%9E%90%EC%88%98-%EB%8D%B0%EB%8B%98-%EC%9E%AC%ED%82%B7-1347431"
+        },
+        {
+            "idx":3,
+            "brand":"BALENCIAGA",
+            "name":"파리 어드레스 코튼 저지 후드 스웨트셔츠",
+            "price": "₩ 750,830",
+            "image": "https://firebasestorage.googleapis.com/v0/b/sparta-weather.appspot.com/o/images%2F4.png?alt=media&token=fac9c9c2-0091-4e77-8e6f-2c8bb96f4e49",
+            "temperature":17,
+            "link": "https://www.matchesfashion.com/kr/products/Balenciaga-%ED%8C%8C%EB%A6%AC-%EC%96%B4%EB%93%9C%EB%A0%88%EC%8A%A4-%EC%BD%94%ED%8A%BC-%EC%A0%80%EC%A7%80-%ED%9B%84%EB%93%9C-%EC%8A%A4%EC%9B%A8%ED%8A%B8%EC%85%94%EC%B8%A0-1314316"
+        },
+        {
+            "idx":4,
+            "brand":"GUCCI",
+            "name":"G 체크 코튼 캔버스 셔츠",
+            "price": "₩ 1,006,660",
+            "image": "https://firebasestorage.googleapis.com/v0/b/sparta-weather.appspot.com/o/images%2F5.png?alt=media&token=da551495-f4ec-4769-aeed-9a32ddf6cd36",
+            "temperature":25,
+            "link": "https://www.matchesfashion.com/kr/products/Gucci-G-%EC%B2%B4%ED%81%AC-%EC%BD%94%ED%8A%BC-%EC%BA%94%EB%B2%84%EC%8A%A4-%EC%85%94%EC%B8%A0-1348072"
+        },
+        {
+            "idx":5,
+            "brand":"GUCCI",
+            "name":"브로치 아플리케 테이퍼드 코튼 진",
+            "price": "₩ 1,493,185",
+            "image": "https://firebasestorage.googleapis.com/v0/b/sparta-weather.appspot.com/o/images%2F6.png?alt=media&token=ed9559a0-35f9-43d7-b34b-51f344642902",
+            "temperature":22,
+            "link": "https://www.matchesfashion.com/kr/products/Gucci-G-%EC%B2%B4%ED%81%AC-%EC%BD%94%ED%8A%BC-%EC%BA%94%EB%B2%84%EC%8A%A4-%EC%85%94%EC%B8%A0-1348072"
+        },
+        {
+            "idx":6,
+            "brand":"GUCCI",
+            "name":"로고 프린트 플래그 자수 코튼 티셔츠",
+            "price": "₩ 706,935",
+            "image": "https://firebasestorage.googleapis.com/v0/b/sparta-weather.appspot.com/o/images%2F7.png?alt=media&token=a58d678e-0a0a-4b6c-820c-3d6c9618a585",
+            "temperature":27,
+            "link": "https://www.matchesfashion.com/kr/products/Gucci-%EB%A1%9C%EA%B3%A0-%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%94%8C%EB%9E%98%EA%B7%B8-%EC%9E%90%EC%88%98-%EC%BD%94%ED%8A%BC-%ED%8B%B0%EC%85%94%EC%B8%A0-1311874"
+        },
+        {
+            "idx":7,
+            "brand":"GUCCI",
+            "name":"브릭스톤 홀스빗 스웨이드 로퍼",
+            "price": "₩ 746,290",
+            "image": "https://firebasestorage.googleapis.com/v0/b/sparta-weather.appspot.com/o/images%2F8.png?alt=media&token=ae820ffa-45a5-477e-8308-739521d91ef7",
+            "temperature":29,
+            "link": "https://www.matchesfashion.com/kr/products/Gucci-%EB%B8%8C%EB%A6%AD%EC%8A%A4%ED%86%A4-%ED%99%80%EC%8A%A4%EB%B9%97-%EC%8A%A4%EC%9B%A8%EC%9D%B4%EB%93%9C-%EB%A1%9C%ED%8D%BC-1311813"
+        },
+        {
+            "idx":8,
+            "brand":"GUCCI",
+            "name":"GG 자카드 캔버스 보머 재킷",
+            "price": "₩ 3,230,395",
+            "image": "https://firebasestorage.googleapis.com/v0/b/sparta-weather.appspot.com/o/images%2F9.png?alt=media&token=f13385de-7590-4f7b-b6d1-f7910ca9cbdc",
+            "temperature":16,
+            "link": "https://www.matchesfashion.com/kr/products/Gucci-GG-%EC%9E%90%EC%B9%B4%EB%93%9C-%EC%BA%94%EB%B2%84%EC%8A%A4-%EB%B3%B4%EB%A8%B8-%EC%9E%AC%ED%82%B7-1348078"
+        },
+        {
+            "idx":9,
+            "brand":"GUCCI",
+            "name":"오르가스미크 울 블렌드 하운드투스 팬츠",
+            "price": "₩ 1,628,820",
+            "image": "https://firebasestorage.googleapis.com/v0/b/sparta-weather.appspot.com/o/images%2F10.png?alt=media&token=3ebb4e95-8cea-4f06-9574-b8af7e528c3b",
+            "temperature":22,
+            "link": "https://www.matchesfashion.com/kr/products/Gucci-%EC%98%A4%EB%A5%B4%EA%B0%80%EC%8A%A4%EB%AF%B8%ED%81%AC-%EC%9A%B8-%EB%B8%94%EB%A0%8C%EB%93%9C-%ED%95%98%EC%9A%B4%EB%93%9C%ED%88%AC%EC%8A%A4-%ED%8C%AC%EC%B8%A0-1348067"
+        }
+    ]
+
+}
